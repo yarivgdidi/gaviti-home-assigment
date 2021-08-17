@@ -18,5 +18,5 @@ click send
 you will get a link to the 'download site'
 
 # data imported to mongo
-The data was imported using studio3t import tool
+The data was imported using studio3t import tool  
 I've considered using compass and convert date to iso, and map fields names but had no time. 
